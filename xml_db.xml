@@ -1,0 +1,78 @@
+<data>
+    <topic name="Animal Things">
+        <note name="Dogs are better than cats 03">
+            <text>
+            Dogs respond when you call their name (unlike cats, who just ignore you)
+            </text>
+            <timestamp>
+            03/16/21 - 14:03:04
+            </timestamp>
+        </note>
+    <note name="new animal"><text>this is a note</text><timestamp>03/07/2022 - 21:04:56</timestamp></note></topic>
+    <topic name="Somethings">
+        <note name="something">
+            <text>
+            something something  something  something 
+            </text>
+            <timestamp>
+            03/16/21 - 14:03:04
+            </timestamp>
+        </note>
+        <note name="totally something">
+            <text>
+            totally somethingtotally somethingtotally somethingtotally something
+            </text>
+            <timestamp>
+            03/16/21 - 14:03:04
+            </timestamp>
+        </note>
+        <note name="new something">
+            <text>fgsdakjl&#246;hnfgdkjnfg dss ggfsdra g sdfagsdre a</text>
+            <timestamp>03/07/2022 - 20:12:02</timestamp>
+        </note>
+        <note name="&#228;sdf&#228;sdfa&#228;fsad&#228;sfda">
+            <text>&#228;fd&#228;s &#228;adsf&#228; </text>
+            <timestamp>03/07/2022 - 20:50:58</timestamp>
+        </note>
+        <note name="jkhnsfd&#246;ajkfsda jkf sdakj hsfda kjhhkj sadf s khjl kjh sdfa ">
+            <text>fsdakjh sadjkfsdaf</text>
+            <timestamp>03/07/2022 - 20:51:30</timestamp>
+        </note>
+        <note name="dafsasdf&#228;&#246;&#228;sadf">
+            <text>sdfasf</text>
+            <timestamp>03/07/2022 - 20:53:33</timestamp>
+        </note>
+        <note name="jkasfde hjhysadfu kjulsfad h fs dakjuhlkjlsd afbhkjh">
+            <text>dfgvg sagsdaf</text>
+            <timestamp>03/07/2022 - 20:54:40</timestamp>
+        </note>
+        <note name="lki dsfhkldshfjsdah fkalsd hfasdhf ">
+            <text>sad fhjasdf asdf s</text>
+            <timestamp>03/07/2022 - 20:55:31</timestamp>
+        </note>
+    <note name="a note"><text>note note note</text><timestamp>03/07/2022 - 20:59:17</timestamp></note><note name="this is a noe"><text>note tneo etga</text><timestamp>03/07/2022 - 21:00:22</timestamp></note><note name="fdssfd  fdsaf sadfds "><text>fsd afsda sdf a</text><timestamp>03/07/2022 - 21:02:14</timestamp></note><note name="dfsa fsad "><text>dfsa </text><timestamp>03/07/2022 - 21:02:59</timestamp></note></topic>
+    <topic name="New" href="https://en.wikipedia.org/wiki/New_Zealand">
+        <note name="new new">
+            <text>fds sdf</text>
+            <timestamp>03/07/2022 - 20:13:25</timestamp>
+        </note>
+    </topic>
+    <topic name="a">
+        <note name="this is a tezt">
+            <text>sfdafsdfsda sadf fsadjkbgsdfa hj k dsfjhksdh f</text>
+            <timestamp>03/07/2022 - 20:46:38</timestamp>
+        </note>
+    <note name="fd asd sd afsadf sd24234"><text>23423423141412</text><timestamp>03/07/2022 - 21:14:28</timestamp></note></topic>
+    <topic name="&#228;">
+        <note name="sdfa">
+            <text>dsf</text>
+            <timestamp>03/07/2022 - 20:52:34</timestamp>
+        </note>
+    </topic>
+    <topic name="b" href="https://en.wikipedia.org/wiki/B">
+        <note name="&#246;&#228;&#246;&#228;&#246;&#229;&#246;&#228;">
+            <text>&#246;&#228;&#246;&#228;&#246;&#229;&#246;&#228;&#246;</text>
+            <timestamp>03/07/2022 - 20:53:16</timestamp>
+        </note>
+    <note name="new b &#228;&#229;p&#246;l&#229;&#246;&#229;"><text>&#246;sdf&#228;&#246;sd&#228;f</text><timestamp>03/07/2022 - 21:05:23</timestamp></note></topic>
+<topic name="Russia" href="https://en.wikipedia.org/wiki/Russia"><note name="this is a russia note"><text>new text</text><timestamp>03/07/2022 - 22:12:16</timestamp></note></topic><topic name="US" href="https://en.wikipedia.org/wiki/US"><note name="USA"><text>usa</text><timestamp>03/09/2022 - 16:40:14</timestamp><link>NO LINK</link></note><note name="us us"><text>sad</text><timestamp>03/09/2022 - 16:40:33</timestamp><link>https://en.wikipedia.org/wiki/US</link></note></topic><topic name="Norway" href="https://en.wikipedia.org/wiki/Norway"><note name="this is a new note"><text>text</text><timestamp>03/09/2022 - 19:17:05</timestamp><link>https://en.wikipedia.org/wiki/Norway</link></note></topic><topic name="Sweden" href="https://en.wikipedia.org/wiki/Sweden"><note name="new note"><text>somethings</text><timestamp>03/09/2022 - 19:23:51</timestamp><link>https://en.wikipedia.org/wiki/Stockholm</link></note><note name="soemhting"><text>topic</text><timestamp>03/09/2022 - 19:26:32</timestamp><link>NO LINK</link></note></topic></data>
